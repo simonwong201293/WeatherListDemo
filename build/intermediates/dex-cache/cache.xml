@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d69c9d6d909984b9847e5731e17f3d817ddf1e9">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_401b3b37827ffc277359e6213dfea8d23fd2b84d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_dc31d949b1412d81740ed6082df13fd261ac5c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_274855d16244d0bd66f9697b2c9d3bb41377423a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_3fda27cf951fd8201483916122f085808eda9d2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f54d4ba106ddc5c3e7cfeec02b56d01fd3caf6be">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_746134c9b7b02aa2dfc8cfd68db86d32f947f460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_291ceffd1610260a4a90f79f65337952277b25e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_68f9cda160e1de511ca0a8c2de96348994fcbaa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1734cb526a7215b8e8fafa8fde484d3e2dd9f44c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_6d8f19dace2a2fe701e397c8a17c3b77d2baf586/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_a6f132961344665651d3e311f82307a0faa3a490/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_abef088759c24932bf3b2848df945c61738fbf53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e59ef7bc599d5b3ac89248c9a41135347adbc6b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_da7fd15cc6a4de5cbe7a05fb3a878b6d63f6cf45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_c4e601a69a4152324274996c80659df9c3ec9513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_3613260301c78deb636e9f3d349b1c8b6c30d543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_d09022406489a19b13c8a9d554f29b9d6725c0dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SimonWong/WeatherListDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/SimonWong/WeatherListDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_42a2e67a2dd54a220344e20944189ffb582ea795/classes.dex" />
+    </item>
+
+</items>
